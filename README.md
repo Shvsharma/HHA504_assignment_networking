@@ -67,7 +67,7 @@ This project explores the networking features in Google Cloud Platform (GCP) and
 ![Screenshot 2024-10-03 165817](https://github.com/user-attachments/assets/a5c3ee74-24fa-4da1-b359-eedf369b4110)
 
 ### 3. Created and Deployed Flask Application
-- Deployed a Flask application on the GCP VM and ran it on port 5007.
+- Deployed a Flask application on the Azure VM and ran it on port 5007.
 - Flask code example:
   ```python
   from flask import Flask
@@ -86,7 +86,7 @@ This project explores the networking features in Google Cloud Platform (GCP) and
 ![Screenshot 2024-10-03 164458](https://github.com/user-attachments/assets/15d5eba2-6b7a-47d2-8e0c-62542529dfaa)
 
 ### 4. Configured Firewall Rules
--Configured GCP firewall rules to allow inbound traffic on port 5007 for the Flask application.
+-Configured Azure firewall rules to allow inbound traffic on port 5007 for the Flask application.
 
 ![Screenshot 2024-10-03 164706](https://github.com/user-attachments/assets/b8a7d5c1-e1f5-4244-aaad-238d720445bc)
 
